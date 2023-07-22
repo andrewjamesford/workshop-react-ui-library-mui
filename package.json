@@ -16,6 +16,7 @@
     "@emotion/styled": "latest",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
+    "@mui/x-data-grid": "^6.10.1",
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
